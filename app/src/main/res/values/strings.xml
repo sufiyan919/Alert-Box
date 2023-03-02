@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AlertDialog</string>
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Deleting this file may harm your system</string>
+</resources>
